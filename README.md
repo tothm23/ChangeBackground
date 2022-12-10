@@ -1,2 +1,3 @@
 # ChangeBackground
- This website can change the background of the website
+
+This website can change the background color of the website
